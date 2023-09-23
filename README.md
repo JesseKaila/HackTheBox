@@ -11,4 +11,5 @@ Tracking Hack The Box progression
 
 <h3>Starting Point</h3>
 
-• 23.09.2032 - Pwned Meow ✅ (https://www.hackthebox.com/achievement/machine/1658474/394)
+• 23.09.2032 - Pwned Meow ✅ (https://www.hackthebox.com/achievement/machine/1658474/394) <br>
+• 23.09.2032 - Pwned Fawn ✅ (https://www.hackthebox.com/achievement/machine/1658474/393) <br>
