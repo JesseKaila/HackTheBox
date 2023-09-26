@@ -14,3 +14,4 @@ Tracking Hack The Box progression
 
 • 23.09.2023 - Pwned Meow ✅ (https://www.hackthebox.com/achievement/machine/1658474/394) <br>
 • 23.09.2023 - Pwned Fawn ✅ (https://www.hackthebox.com/achievement/machine/1658474/393) <br>
+• 26.09.2023 - Pwned Dancing ✅ (https://www.hackthebox.com/achievement/machine/1658474/395) <br>
