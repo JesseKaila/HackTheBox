@@ -8,6 +8,7 @@ Tracking Hack The Box progression
 • 23.09.2023 - Completed Setting Up ✅ (https://academy.hackthebox.com/achievement/987442/87) <br>
 • 26.09.2023 - Completed Introduction to Networking ✅ (https://academy.hackthebox.com/achievement/987442/34) <br>
 • 27.09.2023 - Completed Web Requests ✅ (https://academy.hackthebox.com/achievement/987442/35) <br>
+• 27.09.2023 . Completed Introduction to Web Applications ✅ (https://academy.hackthebox.com/achievement/987442/75) <br>
 
 <h2>HTB Labs</h2>
 
