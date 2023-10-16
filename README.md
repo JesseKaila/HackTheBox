@@ -21,3 +21,4 @@ Tracking Hack The Box progression
 
 • 17.10.2023 - Pwned Appointment ✅ (https://www.hackthebox.com/achievement/machine/1658474/402) <br>
 • 17.10.2023 - Pwned Sequel ✅ (https://www.hackthebox.com/achievement/machine/1658474/403) <br>
+• 17.10.2023 - Pwned Crocodile ✅ (https://www.hackthebox.com/achievement/machine/1658474/404) <br>
