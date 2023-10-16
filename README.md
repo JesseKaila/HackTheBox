@@ -20,4 +20,4 @@ Tracking Hack The Box progression
 • 27.09.2023 - Pwned Redeemer ✅ (https://www.hackthebox.com/achievement/machine/1658474/472) <br>
 
 • 17.10.2023 - Pwned Appointment ✅ (https://www.hackthebox.com/achievement/machine/1658474/402) <br>
-
+• 17.10.2023 - Pwned Sequel ✅ (https://www.hackthebox.com/achievement/machine/1658474/403) <br>
