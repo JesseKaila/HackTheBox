@@ -12,7 +12,7 @@ Tracking Hack The Box progression
 
 <h2>HTB Labs</h2>
 
-<h3>Starting Point</h3><h4> (Very Easy)</h4>
+<h3>Starting Point <h4>(Very Easy)</h4></h3>
 
 • 23.09.2023 - Pwned Meow ✅ (https://www.hackthebox.com/achievement/machine/1658474/394) <br>
 • 23.09.2023 - Pwned Fawn ✅ (https://www.hackthebox.com/achievement/machine/1658474/393) <br>
