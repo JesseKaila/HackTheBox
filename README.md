@@ -26,4 +26,5 @@ Tracking Hack The Box progression
 • 07.11.2023 - Pwned Three ✅ (https://www.hackthebox.com/achievement/machine/1658474/489) <br>
 
 • 07.11.2023 - Pwned Archetype ✅ (https://www.hackthebox.com/achievement/machine/1658474/287) <br>
+• 08.11.2023 - Pwned Oopsie ✅ (https://www.hackthebox.com/achievement/machine/1658474/288) <br>
 
