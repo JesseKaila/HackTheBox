@@ -1,5 +1,5 @@
 <h1>HackTheBox</h1>
-Tracking Hack The Box progression
+Tracking HTB (Hack The Box) progression
 
 <h2>HTB Academy</h2>
 
