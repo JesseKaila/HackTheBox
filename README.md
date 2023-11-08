@@ -16,17 +16,17 @@ Tracking HTB (Hack The Box) progression
 
 <h3>Starting Point - Very Easy</h3>
 
-• 23.09.2023 - Pwned Meow ✅ (https://www.hackthebox.com/achievement/machine/1658474/394) <br>
-• 23.09.2023 - Pwned Fawn ✅ (https://www.hackthebox.com/achievement/machine/1658474/393) <br>
-• 26.09.2023 - Pwned Dancing ✅ (https://www.hackthebox.com/achievement/machine/1658474/395) <br>
-• 27.09.2023 - Pwned Redeemer ✅ (https://www.hackthebox.com/achievement/machine/1658474/472) <br>
+✅ 23.09.2023 - Pwned Meow (https://www.hackthebox.com/achievement/machine/1658474/394) <br>
+✅ 23.09.2023 - Pwned Fawn (https://www.hackthebox.com/achievement/machine/1658474/393) <br>
+✅ 26.09.2023 - Pwned Dancing (https://www.hackthebox.com/achievement/machine/1658474/395) <br>
+✅ 27.09.2023 - Pwned Redeemer (https://www.hackthebox.com/achievement/machine/1658474/472) <br>
 
-• 17.10.2023 - Pwned Appointment ✅ (https://www.hackthebox.com/achievement/machine/1658474/402) <br>
-• 17.10.2023 - Pwned Sequel ✅ (https://www.hackthebox.com/achievement/machine/1658474/403) <br>
-• 17.10.2023 - Pwned Crocodile ✅ (https://www.hackthebox.com/achievement/machine/1658474/404) <br>
-• 07.11.2023 - Pwned Responder ✅ (https://www.hackthebox.com/achievement/machine/1658474/461) <br>
-• 07.11.2023 - Pwned Three ✅ (https://www.hackthebox.com/achievement/machine/1658474/489) <br>
+✅ 17.10.2023 - Pwned Appointment (https://www.hackthebox.com/achievement/machine/1658474/402) <br>
+✅ 17.10.2023 - Pwned Sequel (https://www.hackthebox.com/achievement/machine/1658474/403) <br>
+✅ 17.10.2023 - Pwned Crocodile (https://www.hackthebox.com/achievement/machine/1658474/404) <br>
+✅ 07.11.2023 - Pwned Responder (https://www.hackthebox.com/achievement/machine/1658474/461) <br>
+✅ 07.11.2023 - Pwned Three (https://www.hackthebox.com/achievement/machine/1658474/489) <br>
 
-• 07.11.2023 - Pwned Archetype ✅ (https://www.hackthebox.com/achievement/machine/1658474/287) <br>
-• 08.11.2023 - Pwned Oopsie ✅ (https://www.hackthebox.com/achievement/machine/1658474/288) <br>
+✅ 07.11.2023 - Pwned Archetype (https://www.hackthebox.com/achievement/machine/1658474/287) <br>
+✅ 08.11.2023 - Pwned Oopsie (https://www.hackthebox.com/achievement/machine/1658474/288) <br>
 
