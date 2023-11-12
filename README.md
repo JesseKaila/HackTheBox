@@ -32,3 +32,6 @@ Tracking HTB (Hack The Box) progression
 ✅ 08.11.2023 - Pwned Vaccine (https://www.hackthebox.com/achievement/machine/1658474/289) <br>
 ✅ 09.11.2023 - Pwned Unified (https://www.hackthebox.com/achievement/machine/1658474/441) <br>
 
+<h3>Easy</h3>
+
+✅ 12.11.2023 - Pwned Keeper (https://www.hackthebox.com/achievement/machine/1658474/556) <br>
