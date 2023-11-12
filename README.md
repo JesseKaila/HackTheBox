@@ -14,7 +14,7 @@ Tracking HTB (Hack The Box) progression
 
 <h2>HTB Labs</h2>
 
-<h3>Starting Point - Very Easy</h3>
+<h3>Starting Point - Very Easy - Walkthroughs provided</h3>
 
 ✅ 23.09.2023 - Pwned Meow (https://www.hackthebox.com/achievement/machine/1658474/394) <br>
 ✅ 23.09.2023 - Pwned Fawn (https://www.hackthebox.com/achievement/machine/1658474/393) <br>
@@ -32,6 +32,6 @@ Tracking HTB (Hack The Box) progression
 ✅ 08.11.2023 - Pwned Vaccine (https://www.hackthebox.com/achievement/machine/1658474/289) <br>
 ✅ 09.11.2023 - Pwned Unified (https://www.hackthebox.com/achievement/machine/1658474/441) <br>
 
-<h3>Easy</h3>
+<h3>Easy - No walkthroughs</h3>
 
 ✅ 12.11.2023 - Pwned Keeper (https://www.hackthebox.com/achievement/machine/1658474/556) <br>
