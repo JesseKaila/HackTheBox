@@ -1,5 +1,5 @@
 <h1>HackTheBox</h1>
-Tracking HTB (Hack The Box) progression
+Tracking HTB (Hack The Box) Progression
 
 <h2>HTB Academy</h2>
 
@@ -36,3 +36,4 @@ Tracking HTB (Hack The Box) progression
 
 ✅ 12.11.2023 - Pwned Keeper (https://www.hackthebox.com/achievement/machine/1658474/556) <br>
 ✅ 13.11.2023 - Pwned CozyHosting (https://www.hackthebox.com/achievement/machine/1658474/559) <br>
+✅ 14.11.2023 - Pwned Sau (https://www.hackthebox.com/achievement/machine/1658474/551) <br>
