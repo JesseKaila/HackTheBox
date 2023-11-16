@@ -37,4 +37,4 @@ Tracking HTB (Hack The Box) Progression
 ✅ 12.11.2023 - Pwned Keeper (https://www.hackthebox.com/achievement/machine/1658474/556) <br>
 ✅ 13.11.2023 - Pwned CozyHosting (https://www.hackthebox.com/achievement/machine/1658474/559) <br>
 ✅ 14.11.2023 - Pwned Sau (https://www.hackthebox.com/achievement/machine/1658474/551) <br>
-✅ 16.11.2023 - Pwned Codify /https://www.hackthebox.com/achievement/machine/1658474/574) <br>
+✅ 16.11.2023 - Pwned Codify (https://www.hackthebox.com/achievement/machine/1658474/574) <br>
